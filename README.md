@@ -44,6 +44,5 @@ I work with **Front End and Back End**, exploring modern languages and framework
 ---
 
 ## 🌐 Contact
-📩 Email: **yourname@email.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-🌎 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+📩 Email: **nhandreamowo@gmail.com**  
+🌎 Portfolio: [https://yourwebsite.com](https://www.nhandream.xyz/)
